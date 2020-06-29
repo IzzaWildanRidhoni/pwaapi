@@ -1,0 +1,25 @@
+
+{
+"products":[
+  {"id":1,"name":"Macaw, red and blue","category":"Pink"},
+  {"id":2,"name":"Bear, black","category":"Maroon"},
+  {"id":3,"name":"Magnificent frigate bird","category":"Teal"},
+  {"id":4,"name":"Common zorro","category":"Red"},
+  {"id":5,"name":"Scarlet macaw","category":"Maroon"},
+  {"id":6,"name":"Green-winged trumpeter","category":"Pink"},
+  {"id":7,"name":"Heron, grey","category":"Aquamarine"},
+  {"id":8,"name":"Crown of thorns starfish","category":"Goldenrod"},
+  {"id":9,"name":"Salmon pink bird eater tarantula","category":"Mauv"},
+  {"id":10,"name":"Reedbuck, bohor","category":"Puce"},
+  {"id":11,"name":"Quoll, eastern","category":"Violet"},
+  {"id":12,"name":"Coqui partridge","category":"Turquoise"},
+  {"id":13,"name":"Deer, black-tailed","category":"Pink"},
+  {"id":14,"name":"Sugar glider","category":"Turquoise"},
+  {"id":15,"name":"Possum, western pygmy","category":"Pink"},
+  {"id":16,"name":"Squirrel, african bush","category":"Red"},
+  {"id":17,"name":"Herring gull","category":"Purple"},
+  {"id":18,"name":"Otter, north american river","category":"Green"},
+  {"id":19,"name":"Arboral spiny rat","category":"Red"},
+  {"id":20,"name":"Bee-eater, white-fronted","category":"Mauv"}
+]
+}
